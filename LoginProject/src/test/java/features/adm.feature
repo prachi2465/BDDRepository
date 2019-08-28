@@ -1,4 +1,3 @@
-
 Feature: Login page
  
   Scenario: Login with username and password
